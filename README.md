@@ -1,7 +1,7 @@
 <!-- Alignment -->
 <div align="center">
   <!-- Logo -->
-  <img width="200" height="200" alt="SunnyMuseumLogo" src="https://github.com/user-attachments/assets/5c9d1841-f071-4845-9811-4e1937fb84e9" />
+  <img width="200" height="200" alt="TheSunnyMuseumLogo" src="https://github.com/user-attachments/assets/d3d7c74d-dea3-4586-917f-07eab6aeeb99" />
   <!-- Header -->
   <h3><b>The Sunny Museum</b></h3>
   <!-- Subheader -->
